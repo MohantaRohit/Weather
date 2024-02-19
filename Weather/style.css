@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-image: url(./Weather.jpg);
+    text-align: center;
+    margin: 50px;
+  
+}
+
+#weather-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color:rgb(53, 230, 156) ;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+#weather-icon {
+    max-width: 200px; 
+    margin: 0 auto;
+}
